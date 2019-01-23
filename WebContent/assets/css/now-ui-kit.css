@@ -3441,7 +3441,8 @@ h5,
 .h5 {
   font-size: 1.3em;
   line-height: 1.4em;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
+  margin-top: 25px;
 }
 
 h5.category,
