@@ -3489,7 +3489,7 @@ p {
 
 .category {
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 700 !important;
   color: #9A9A9A;
 }
 
