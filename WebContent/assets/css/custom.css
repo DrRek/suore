@@ -10,6 +10,10 @@ p {
 	.nascondi-se-non-entra {
 		display:none;
 	}
+	h1.titolo{
+		margin-top:30px;
+		margin-bottom:0px;
+	}
 }
 
 @media (max-height: 450px) or (max-width: 600px) {
@@ -17,6 +21,10 @@ p {
 		display:none;
 	}
 	h1.titolo{
+		margin-top:50px;
 		margin-bottom:0px;
+	}
+	.page-header{
+		height: 70vh !important;
 	}
 }
