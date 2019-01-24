@@ -5,3 +5,18 @@ h1, h2, h3, h4, h5, h6 {
 p {
 	font-weight: 500 !important;
 }
+
+@media (max-height: 850px) {
+	.nascondi-se-non-entra {
+		display:none;
+	}
+}
+
+@media (max-height: 450px) or (max-width: 600px) {
+	.nascondi-se-non-entra-piccolo {
+		display:none;
+	}
+	h1.titolo{
+		margin-bottom:0px;
+	}
+}
