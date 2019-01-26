@@ -81,11 +81,11 @@ $(document).ready(function() {
   }
 
   // Activate Carousel
-  $('#carousel-howarewe').carousel({
+  $('#carousel-chisiamo').carousel({
     interval: 4000
   });
   $('#carousel-header').carousel({
-	    interval: 2000
+	    interval: 3000
   });
 
   $('.date-picker').each(function() {
